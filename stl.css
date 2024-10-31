@@ -1,0 +1,38 @@
+div#donation_plate {
+    width: 600px;
+    margin: 10px 10px 20px;
+    padding: 10px 10px 20px;
+    background-color: rgb(242, 242, 242);
+    border: 1px solid rgb(220, 220, 220);
+    border-radius: 8px;
+    text-shadow: 1px 1px 0pt rgb(255, 255, 255);
+    box-shadow: 1px 1px 0pt rgb(255, 255, 255) inset, -1px -1px 0pt rgb(255, 255, 255);
+    position: relative
+}
+
+div#donation_plate h4 {
+    font-size: 1.4em;
+    line-height: 1;
+    margin: 5px 0 3px 0;
+    padding: 0;
+    color: rgb(30, 34, 38);
+    font-weight: bold;
+    font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif;
+    text-shadow: 1px 1px 1px #fff;
+    font-style: italic
+}
+
+span.si-feedback {
+    margin: 5px 0 0 45px;
+}
+
+div.si-please-donate {
+    float: left;
+    width: 350px;
+    vertical-align: top
+}
+
+div.si-donation-form {
+    float: left;
+    padding-left: 20px;
+}
